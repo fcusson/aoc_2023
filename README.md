@@ -1,2 +1,3 @@
 # aoc_2023
-Advent of Code 2023
+
+Just me having fun solving the advent of code 2023.
